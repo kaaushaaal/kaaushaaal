@@ -15,17 +15,25 @@
 - ⚡ Motto: *“If there’s a vulnerability, I’ll find it — MFA won’t save you 😏”*  
 
 ---
-## 🛠 Tech Stack  
-<p align="left">
-
+## 🛠 Tech Stack
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/python.svg" width="30" title="Python" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/cplusplus.svg" width="30" title="C++" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/postgresql.svg" width="30" title="SQL/PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/bash.svg" width="30" title="Bash" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/powershell.svg" width="30" title="PowerShell" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" title="C++"/>
+  <img src="https://iconic-api.onrender.com/dark/sql" width="64px" title="SQL"/>
 
-  <!-- ML / AI Libraries -->
+  <!-- DevOps / Cloud -->
+  <img src="https://iconic-api.onrender.com/dark/docker" width="64px" title="Docker"/>
+  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="64px" title="Kubernetes"/>
+  <img src="https://iconic-api.onrender.com/dark/aws" width="64px" title="AWS"/>
+  <img src="https://iconic-api.onrender.com/dark/azure" width="64px" title="Azure"/>
+  <img src="https://iconic-api.onrender.com/dark/google-cloud" width="64px" title="Google Cloud"/>
+
+  <!-- AI / ML -->
+  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" title="TensorFlow"/>
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" title="PyTorch"/>
+</div>
+
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/tensorflow.svg" width="30" title="TensorFlow" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/pytorch.svg" width="30" title="PyTorch" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/numpy.svg" width="30" title="NumPy" />
