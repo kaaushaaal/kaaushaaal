@@ -1,6 +1,6 @@
 <!-- Banner / Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=2000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaushal+Shukla;Cybersecurity+%7C+DevOps+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=2000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaushal+Shukla;Cloud+%7C+DevOps+%7C+Security" alt="Typing SVG" />
 </div>
 
 
