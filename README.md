@@ -10,9 +10,8 @@
 ## 👨‍💻 About Me  
 - 🎓 Final Year **CSE Student** @ Manipal University Jaipur (2026)  
 - 💼 Experience: **xIoTz (Cybersecurity)** | **Accenture (SAP)**  
-- 🧠 Passionate about **AI-Driven Cybersecurity & Real-Time Systems**  
-- 🚀 Currently building an **AI-Driven Cyber Threat Intelligence Platform**  
-- ⚡ Motto: *“If there’s a vulnerability, I’ll find it — MFA won’t save you 😏”*  
+- 🧠 Passionate about **Cloud Security**  
+- 🚀 Currently building an **Azure Based Nomad Client - Server Cluster**    
 
 ---
 ## 🛠 Tech Stack
