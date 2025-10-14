@@ -16,7 +16,7 @@
 
 ---
 ## 🛠 Tech Stack  
-<p align="center">
+<p align="left">
   
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -74,7 +74,7 @@
 ---
 
 ## 🌐 Let's Connect  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kaushalshukla005/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:kaushalshukla005@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
