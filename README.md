@@ -17,42 +17,43 @@
 ---
 ## 🛠 Tech Stack  
 <p align="left">
-  
+
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/python.svg" width="30" title="Python" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/cplusplus.svg" width="30" title="C++" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/postgresql.svg" width="30" title="SQL/PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/bash.svg" width="30" title="Bash" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/powershell.svg" width="30" title="PowerShell" />
+
   <!-- ML / AI Libraries -->
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TabNet-00BFFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/tensorflow.svg" width="30" title="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/pytorch.svg" width="30" title="PyTorch" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/numpy.svg" width="30" title="NumPy" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/pandas.svg" width="30" title="Pandas" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/scikitlearn.svg" width="30" title="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/matplotlib.svg" width="30" title="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/xgboost.svg" width="30" title="XGBoost" />
+
   <!-- Backend / DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/docker.svg" width="30" title="Docker" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/kubernetes.svg" width="30" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/flask.svg" width="30" title="Flask" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/fastapi.svg" width="30" title="FastAPI" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/postgresql.svg" width="30" title="PostgreSQL" />
+
   <!-- Monitoring / Security -->
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge&logoColor=white" />
-  
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/wireshark.svg" width="30" title="Wireshark" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/metasploit.svg" width="30" title="Metasploit" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/elk.svg" width="30" title="ELK Stack" />
+
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/aws.svg" width="30" title="AWS" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/azure.svg" width="30" title="Azure" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/google-cloud.svg" width="30" title="Google Cloud" />
+
 </p>
 
+  
 ---
 
 ## 📌 Featured Projects  
