@@ -9,10 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Final Year **CSE Student** @ Manipal University Jaipur (2026)  
-- 💼 Experience: **xIoTz (Cybersecurity)** | **Accenture (SAP)**  
-- 🧠 Passionate about **Cloud Security**  
-- 🚀 Currently building an **Azure Based Nomad Client - Server Cluster**    
-
+- 💼 Experience: **xIoTz (Cybersecurity)** | **Accenture (SAP)**     
 ---
 ## 🛠 Tech Stack
 
@@ -33,23 +30,6 @@
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
-
-
-## 📌 Featured Projects  
-- 🔥 [**Real-Time Anomaly Detection in EHR & Network Logs**](https://github.com/YOUR-REPO)  
-  ML-powered ELK pipeline with PostgreSQL & API integration for healthcare cybersecurity  
-- 🧠 [**Python-Based Programming Language**](https://github.com/YOUR-REPO)  
-  Designed & packaged a custom language with pip installation support  
-- 🛡️ [**InShield**](https://github.com/YOUR-REPO)  
-  A next-gen **security automation tool** for detecting, visualizing, and mitigating threats in real time  
-
----
-
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaaushaaal&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://streak-stats.demolab.com/?user=kaaushaaal&theme=tokyonight" height="180em"/>
-</p>
 
 ---
 
