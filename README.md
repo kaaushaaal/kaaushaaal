@@ -43,3 +43,4 @@
   </p>
 
 ---
+![snake gif](https://github.com/kaaushaaal/kaaushaaal/blob/output/github-snake-dark.svg)
