@@ -6,11 +6,9 @@
 
 # 💫 About Me:
 
-Final Year **Computer Science Engineering student** at Manipal University Jaipur with strong interest in **Cloud Infrastructure, DevOps Automation, and Security Engineering**.
+DevOps @ Pocketpills
 
-Experience building **cloud-native systems, automation pipelines, and ML-based security solutions** through internships and projects.
-
-Worked with **AWS, Kubernetes, Terraform, and CI/CD pipelines** to design scalable infrastructure and automate operational workflows.
+Working with **AWS, Kubernetes, Terraform, and CI/CD pipelines** to design scalable infrastructure and automate operational workflows.
 
 Passionate about **building reliable cloud systems, optimizing infrastructure, and solving real-world security problems.**
 
